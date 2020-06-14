@@ -171,10 +171,9 @@ docker container ps -a
 
 
 
-# What does AWS Elastic Beanstalk do?
+## What does AWS Elastic Beanstalk do?
 Did this create an EC2 and a VPC for me?
 
 What about security groups, did this open port 80 automatically for us?
 
 Is this load balanced (HA) or not?
-- Yes, AWS Elastic Beanstalk is load-balanced and it uses auto-scaling.
